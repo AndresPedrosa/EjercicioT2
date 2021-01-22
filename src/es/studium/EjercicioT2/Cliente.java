@@ -7,8 +7,7 @@ public class Cliente
 	private String nombre;
 	private String direccion;
 	
-	public Cliente() /*Esto es un constructor "vacío", donde inicializamos los atributos antes
-						puestos, aunque sin pasarles ningún valor*/
+	public Cliente() //Esto es un método constructor vacío, cuyas variables inicializamos pero sin darle un valor.
 	{
 		dni = "";
 		nombre = "";

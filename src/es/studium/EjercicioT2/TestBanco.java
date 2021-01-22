@@ -43,6 +43,11 @@ public class TestBanco
 		
 		cuentaAntonio.setSaldo(cuentaAntonio.getSaldo() - 50);
 		cuentaBeatriz.setSaldo(cuentaBeatriz.getSaldo() + 50);
+		
+		System.out.println("La cuenta de " + cuentaAntonio.getCliente().getNombre() + " tiene "
+				+ cuentaAntonio.getSaldo() + " euros.");
+		System.out.println("La cuenta de " + cuentaBeatriz.getCliente().getNombre() + " tiene "
+				+ cuentaBeatriz.getSaldo() + " euros.");
 	}
 
 }
