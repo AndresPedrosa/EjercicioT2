@@ -4,7 +4,7 @@ public class TestBanco
 {
 
 /*En esta clase llamada TestBanco escribimos el método main para poder crear objetos de las dos 
- * clases anteriormente creadas, es decir, de Clientes y de Cuentas, pudiendo aquí personalizar
+ * clases anteriormente creadas, es decir, de Cliente y de Cuenta, pudiendo aquí personalizar
  * los valores de los atributos de ambas clases para, finalmente, poder tanto mostrar dichos valores
  * mediante el método get como modificarlos con el método set y, acabar mostrando finalmente los
  * resultados de algunas de esas modificaciones.
