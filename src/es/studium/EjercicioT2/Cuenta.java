@@ -1,8 +1,8 @@
 package es.studium.EjercicioT2;
 
-/*En esta clase hemos hecho prácticamente lo mismo que en la clase Clientes, con la diferencia de
+/*En esta clase hemos hecho prácticamente lo mismo que en la clase Cliente, con la diferencia de
 que aquí el atributo "cliente" no es de un tipo predefinido por Java, sino que lo hemos definido
-nosotros mismos, conectándolo así con la clase anterior Clientes*/
+nosotros mismos, conectándolo así con la clase anterior Cliente*/
 
 public class Cuenta
 {
